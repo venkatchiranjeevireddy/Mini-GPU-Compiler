@@ -148,3 +148,4 @@ tests/             simulator, fake driver, test-suite   examples/  kernels (+ ex
   loop-invariant code motion.
 * No shared memory / barriers / atomics yet, so reductions are not expressible.
 * Local variables without an initializer are zero-initialised.
+# Mini-GPU-Compiler
